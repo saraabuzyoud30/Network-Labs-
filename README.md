@@ -1,21 +1,19 @@
 # Network Labs Documentation
-
-هذا المستودع يحتوي على توثيق لمشاريع وتجارب عملية في الشبكات (Network Labs).
+This repository contains documentation for networking projects and practical experiments.(Network Labs).
 
 ## المحتويات
-* [Inter-VLAN Routing](Inter-Vlan%20routing%20LAB.docx): شرح وتطبيق توجيه البيانات بين شبكات VLANs.
-* [STP and Etherchannel](STP%20and%20Etherchannel%20Configurati...): إعدادات البروتوكولات الخاصة بمنع الحلقات وتجميع الروابط.
-* [Static Routing](Static%20Routing.docx): أساسيات التوجيه الثابت بين الشبكات.
+* [Inter-VLAN Routing](Inter-Vlan%20routing%20LAB.docx):configuration routing between the networks 
+* [STP and Etherchannel](STP%20and%20Etherchannel%20Configurati...):configuration stp to prevent looping and link aggregation.
+* [Static Routing](Static%20Routing.docx): static routing between the networks
 
----
-## نبذة عن المختبرات
-تم تصميم هذه التجارب لتعزيز المهارات العملية في:
-1. إعداد أجهزة Cisco (سويتشات ورواتر).
-2. تطبيق مفاهيم الـ VLANs.
-3. تحسين أداء الشبكة واستقرارها.
+---About the Labs
+These experiments are designed to enhance practical skills in:
+Configuring Cisco devices (Switches and Routers).
+Implementing VLAN concepts.
+Optimizing network performance and stability..
 
-## الأدوات المستخدمة
-* Cisco Packet Tracer / EVE-NG
+##Tools Used
+* Cisco Packet Tracer
 
   ---
 ## Fortinet Labs
