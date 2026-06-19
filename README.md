@@ -16,3 +16,10 @@
 
 ## الأدوات المستخدمة
 * Cisco Packet Tracer / EVE-NG
+
+  ---
+## Fortinet Labs
+لمشاهدة الفيديوهات الخاصة بمختبرات Fortinet، اضغطي على الرابط التالي:
+[اضغط هنا للوصول إلى فيديوهات Fortinet]
+https://drive.google.com/drive/folders/1FmsrEN1Z7wnCKdMgAOGfbo-V5BEO__rb?usp=drive_link
+
